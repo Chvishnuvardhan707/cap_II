@@ -1,0 +1,39 @@
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.7' does not exist -- can't clean it
+running bdist_wheel
+running build
+running build_py
+creating build
+creating build\lib
+copying helloworld.py -> build\lib
+copying main.py -> build\lib
+installing to build\bdist.win-amd64\wheel
+running install
+running install_lib
+creating build\bdist.win-amd64
+creating build\bdist.win-amd64\wheel
+copying build\lib\helloworld.py -> build\bdist.win-amd64\wheel\.
+copying build\lib\main.py -> build\bdist.win-amd64\wheel\.
+running install_egg_info
+running egg_info
+writing MovieRecommendationEngine.egg-info\PKG-INFO
+writing dependency_links to MovieRecommendationEngine.egg-info\dependency_links.txt
+writing namespace_packages to MovieRecommendationEngine.egg-info\namespace_packages.txt
+writing top-level names to MovieRecommendationEngine.egg-info\top_level.txt
+reading manifest file 'MovieRecommendationEngine.egg-info\SOURCES.txt'
+writing manifest file 'MovieRecommendationEngine.egg-info\SOURCES.txt'
+Copying MovieRecommendationEngine.egg-info to build\bdist.win-amd64\wheel\.\MovieRecommendationEngine-1.0.dev0-py3.7.egg-info
+running install_scripts
+creating build\bdist.win-amd64\wheel\MovieRecommendationEngine-1.0.dev0.dist-info\WHEEL
+creating 'dist\MovieRecommendationEngine-1.0.dev0-py3-none-any.whl' and adding 'build\bdist.win-amd64\wheel' to it
+adding 'helloworld.py'
+adding 'main.py'
+adding 'MovieRecommendationEngine-1.0.dev0.dist-info/METADATA'
+adding 'MovieRecommendationEngine-1.0.dev0.dist-info/WHEEL'
+adding 'MovieRecommendationEngine-1.0.dev0.dist-info/namespace_packages.txt'
+adding 'MovieRecommendationEngine-1.0.dev0.dist-info/top_level.txt'
+adding 'MovieRecommendationEngine-1.0.dev0.dist-info/zip-safe'
+adding 'MovieRecommendationEngine-1.0.dev0.dist-info/RECORD'
+removing build\bdist.win-amd64\wheel
